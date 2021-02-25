@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/WebGL Builds/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -53,6 +54,9 @@ ExportedObj/
 
 # Unity3D generated file on crash reports
 sysinfo.txt
+
+connectwebgl.zip
+webgl_sharing
 
 # Builds
 *.apk
